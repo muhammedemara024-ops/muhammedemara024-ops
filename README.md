@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Iam Muhammed Emara 👋
 
 # 💫 About Me:
 I am a Production Engineering graduate who has recently shifted focus towards software development. <br>With a solid engineering background, I bring strong analytical and problem-solving skills into programming. <br><br>I have hands-on experience with C++ and I am currently expanding my knowledge in C#. <br>My expertise includes Object-Oriented Programming (OOP), Data Structures, and Algorithms, and I enjoy building projects that demonstrate practical problem-solving. 
