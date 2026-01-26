@@ -1,8 +1,9 @@
 ## Hi I'm Muhammed Emara 👋
 
 # 💫 About Me:
-I am a Production Engineering graduate who has recently shifted focus towards software development. <br>With a solid engineering background, I bring strong analytical and problem-solving skills into programming. <br><br>I have hands-on experience with C++ and I am currently expanding my knowledge in C#. <br>My expertise includes Object-Oriented Programming (OOP), Data Structures, and Algorithms, and I enjoy building projects that demonstrate practical problem-solving. 
-
+I’m a Full-Stack .NET Developer with hands-on experience building modern, responsive, and scalable web applications using C# ASP  .NET Core, Web API, and Angular.
+<br>
+I help clients turn ideas into functional, clean, and maintainable web solutions, focusing on performance, structure, and real business needs.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohamed.emara.1999) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohammedemarauth/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-emara-3a8299226/) 
